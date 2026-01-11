@@ -1,6 +1,6 @@
 <div align="center">
-#Hi there! (Olá!)
-
+##Hi there! (Olá!)
+</div>
 ──────────────────────────────────────────────────────────
 
 About me (Sobre mim)
@@ -14,4 +14,4 @@ Technical Skills (Competências Técnicas)
 💻 Languages: Elisp, Java, C, and Shell Scripting.
 
 📁 Tools: Doom Emacs, GNU/Linux."
-</div>
+
