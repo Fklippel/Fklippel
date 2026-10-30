@@ -11,6 +11,6 @@ Technical Skills:
 
 💻 Languages: Elisp, Java, C, and Shell Scripting.
 
-📁 Tools: Doom Emacs, GNU/Linux, MacOS.
+📁 Tools: GNU/Linux, MacOS.
 
 
